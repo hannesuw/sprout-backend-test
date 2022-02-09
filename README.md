@@ -1,1 +1,6 @@
-# sprout-backend-test
+## How to run test case
+
+```
+npm i
+npm test
+```
